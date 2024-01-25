@@ -1,0 +1,501 @@
+2024-01-24 09:41:45.397 +07:00 [INF] Initializing UI Database
+2024-01-24 09:41:46.196 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 09:41:46.371 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 09:41:46.372 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 09:41:46.372 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 09:41:46.372 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 09:41:46.372 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 09:41:46.405 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 09:41:46.405 +07:00 [INF] Hosting environment: Development
+2024-01-24 09:41:46.406 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 09:41:46.899 +07:00 [INF] Server cpfhp-cd2084qqf:97668:0ff4fc7d successfully announced in 485.5848 ms
+2024-01-24 09:41:46.909 +07:00 [INF] Server cpfhp-cd2084qqf:97668:0ff4fc7d is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 09:41:47.288 +07:00 [INF] Server cpfhp-cd2084qqf:97668:0ff4fc7d all the dispatchers started
+2024-01-24 09:43:40.881 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-01-24 09:43:41.519 +07:00 [INF] HTTP GET /api/Account/get-all responded 200 in 641.3500 ms
+2024-01-24 09:46:58.139 +07:00 [INF] Server cpfhp-cd2084qqf:97668:0ff4fc7d caught stopping signal...
+2024-01-24 09:46:58.139 +07:00 [INF] Application is shutting down...
+2024-01-24 09:46:58.141 +07:00 [INF] Server cpfhp-cd2084qqf:97668:0ff4fc7d All dispatchers stopped
+2024-01-24 09:46:58.148 +07:00 [INF] Server cpfhp-cd2084qqf:97668:0ff4fc7d successfully reported itself as stopped in 5.52 ms
+2024-01-24 09:46:58.149 +07:00 [INF] Server cpfhp-cd2084qqf:97668:0ff4fc7d has been stopped in total 9.4027 ms
+2024-01-24 10:32:27.113 +07:00 [INF] Initializing UI Database
+2024-01-24 10:32:27.879 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 10:32:27.989 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 10:32:27.989 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 10:32:27.990 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 10:32:27.990 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 10:32:27.990 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 10:32:28.014 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 10:32:28.014 +07:00 [INF] Hosting environment: Development
+2024-01-24 10:32:28.014 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 10:32:28.351 +07:00 [INF] Server cpfhp-cd2084qqf:106368:16474dbb successfully announced in 329.0557 ms
+2024-01-24 10:32:28.354 +07:00 [INF] Server cpfhp-cd2084qqf:106368:16474dbb is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 10:32:28.389 +07:00 [INF] Server cpfhp-cd2084qqf:106368:16474dbb all the dispatchers started
+2024-01-24 10:32:42.462 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-01-24 10:32:43.157 +07:00 [INF] HTTP GET /api/Account/get-all responded 200 in 697.1075 ms
+2024-01-24 10:33:29.988 +07:00 [INF] HTTP GET /api/Account/get-all responded 200 in 52.5996 ms
+2024-01-24 11:24:33.176 +07:00 [INF] Initializing UI Database
+2024-01-24 11:24:34.426 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 11:24:34.556 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 11:24:34.557 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 11:24:34.557 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 11:24:34.557 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 11:24:34.557 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 11:24:34.583 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 11:24:34.583 +07:00 [INF] Hosting environment: Development
+2024-01-24 11:24:34.583 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 11:24:35.016 +07:00 [INF] Server cpfhp-cd2084qqf:111592:0d3209d5 successfully announced in 423.1776 ms
+2024-01-24 11:24:35.019 +07:00 [INF] Server cpfhp-cd2084qqf:111592:0d3209d5 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 11:24:35.082 +07:00 [INF] Server cpfhp-cd2084qqf:111592:0d3209d5 all the dispatchers started
+2024-01-24 11:25:31.213 +07:00 [INF] Initializing UI Database
+2024-01-24 11:25:31.967 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 11:25:32.028 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 11:25:32.028 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 11:25:32.028 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 11:25:32.028 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 11:25:32.029 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 11:25:32.051 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 11:25:32.052 +07:00 [INF] Hosting environment: Development
+2024-01-24 11:25:32.052 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 11:25:32.462 +07:00 [INF] Server cpfhp-cd2084qqf:80272:7b28526c successfully announced in 397.8272 ms
+2024-01-24 11:25:32.466 +07:00 [INF] Server cpfhp-cd2084qqf:80272:7b28526c is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 11:25:32.510 +07:00 [INF] Server cpfhp-cd2084qqf:80272:7b28526c all the dispatchers started
+2024-01-24 11:26:52.253 +07:00 [INF] Initializing UI Database
+2024-01-24 11:26:53.036 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 11:26:53.135 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 11:26:53.136 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 11:26:53.136 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 11:26:53.137 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 11:26:53.137 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 11:26:53.187 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 11:26:53.188 +07:00 [INF] Hosting environment: Development
+2024-01-24 11:26:53.189 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 11:26:53.773 +07:00 [INF] Server cpfhp-cd2084qqf:12688:579ee357 successfully announced in 574.4855 ms
+2024-01-24 11:26:53.785 +07:00 [INF] Server cpfhp-cd2084qqf:12688:579ee357 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 11:26:54.161 +07:00 [INF] Server cpfhp-cd2084qqf:12688:579ee357 all the dispatchers started
+2024-01-24 11:27:46.863 +07:00 [INF] Initializing UI Database
+2024-01-24 11:27:47.584 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 11:27:47.642 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 11:27:47.642 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 11:27:47.642 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 11:27:47.643 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 11:27:47.643 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 11:27:47.659 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 11:27:47.659 +07:00 [INF] Hosting environment: Development
+2024-01-24 11:27:47.659 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 11:27:47.944 +07:00 [INF] Server cpfhp-cd2084qqf:77740:09e3d820 successfully announced in 277.0421 ms
+2024-01-24 11:27:47.946 +07:00 [INF] Server cpfhp-cd2084qqf:77740:09e3d820 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 11:27:47.976 +07:00 [INF] Server cpfhp-cd2084qqf:77740:09e3d820 all the dispatchers started
+2024-01-24 11:28:52.836 +07:00 [INF] Initializing UI Database
+2024-01-24 11:28:53.474 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 11:28:53.525 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 11:28:53.525 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 11:28:53.526 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 11:28:53.526 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 11:28:53.526 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 11:28:53.541 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 11:28:53.541 +07:00 [INF] Hosting environment: Development
+2024-01-24 11:28:53.541 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 11:28:53.784 +07:00 [INF] Server cpfhp-cd2084qqf:73544:6722c3c0 successfully announced in 235.0892 ms
+2024-01-24 11:28:53.786 +07:00 [INF] Server cpfhp-cd2084qqf:73544:6722c3c0 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 11:28:53.795 +07:00 [INF] 1 servers were removed due to timeout
+2024-01-24 11:28:53.868 +07:00 [INF] Server cpfhp-cd2084qqf:73544:6722c3c0 all the dispatchers started
+2024-01-24 11:33:53.812 +07:00 [INF] 4 servers were removed due to timeout
+2024-01-24 12:24:34.792 +07:00 [INF] Initializing UI Database
+2024-01-24 12:24:35.484 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 12:24:35.585 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 12:24:35.585 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 12:24:35.585 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 12:24:35.585 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 12:24:35.585 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 12:24:35.611 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 12:24:35.612 +07:00 [INF] Hosting environment: Development
+2024-01-24 12:24:35.612 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 12:24:35.915 +07:00 [INF] Server cpfhp-cd2084qqf:41444:50baf93d successfully announced in 297.3542 ms
+2024-01-24 12:24:35.917 +07:00 [INF] Server cpfhp-cd2084qqf:41444:50baf93d is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 12:24:35.957 +07:00 [INF] Server cpfhp-cd2084qqf:41444:50baf93d all the dispatchers started
+2024-01-24 12:29:35.935 +07:00 [INF] 1 servers were removed due to timeout
+2024-01-24 13:11:16.203 +07:00 [INF] Initializing UI Database
+2024-01-24 13:11:16.890 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 13:11:16.950 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 13:11:16.950 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 13:11:16.950 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 13:11:16.950 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 13:11:16.951 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 13:11:16.969 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 13:11:16.969 +07:00 [INF] Hosting environment: Development
+2024-01-24 13:11:16.969 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 13:11:17.260 +07:00 [INF] Server cpfhp-cd2084qqf:81528:2ff3bf93 successfully announced in 281.0312 ms
+2024-01-24 13:11:17.262 +07:00 [INF] Server cpfhp-cd2084qqf:81528:2ff3bf93 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 13:11:17.321 +07:00 [INF] Server cpfhp-cd2084qqf:81528:2ff3bf93 all the dispatchers started
+2024-01-24 13:15:07.934 +07:00 [INF] Initializing UI Database
+2024-01-24 13:15:08.537 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 13:15:08.585 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 13:15:08.585 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 13:15:08.586 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 13:15:08.586 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 13:15:08.586 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 13:15:08.600 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 13:15:08.600 +07:00 [INF] Hosting environment: Development
+2024-01-24 13:15:08.600 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 13:15:08.859 +07:00 [INF] Server cpfhp-cd2084qqf:52004:24353c8a successfully announced in 251.5098 ms
+2024-01-24 13:15:08.861 +07:00 [INF] Server cpfhp-cd2084qqf:52004:24353c8a is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 13:15:08.871 +07:00 [INF] Server cpfhp-cd2084qqf:52004:24353c8a all the dispatchers started
+2024-01-24 13:20:08.886 +07:00 [INF] 2 servers were removed due to timeout
+2024-01-24 13:22:38.280 +07:00 [INF] Initializing UI Database
+2024-01-24 13:22:38.934 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 13:22:38.982 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 13:22:38.983 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 13:22:38.983 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 13:22:38.983 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 13:22:38.983 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 13:22:38.997 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 13:22:38.998 +07:00 [INF] Hosting environment: Development
+2024-01-24 13:22:38.998 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 13:22:39.265 +07:00 [INF] Server cpfhp-cd2084qqf:95236:48a6d6fd successfully announced in 260.3627 ms
+2024-01-24 13:22:39.267 +07:00 [INF] Server cpfhp-cd2084qqf:95236:48a6d6fd is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 13:22:39.350 +07:00 [INF] Server cpfhp-cd2084qqf:95236:48a6d6fd all the dispatchers started
+2024-01-24 13:27:39.299 +07:00 [INF] 1 servers were removed due to timeout
+2024-01-24 13:31:58.579 +07:00 [INF] Initializing UI Database
+2024-01-24 13:31:59.752 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 13:31:59.909 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 13:31:59.909 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 13:31:59.909 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 13:31:59.910 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 13:31:59.910 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 13:31:59.939 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 13:31:59.939 +07:00 [INF] Hosting environment: Development
+2024-01-24 13:31:59.939 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 13:32:00.396 +07:00 [INF] Server cpfhp-cd2084qqf:98308:e43b810f successfully announced in 448.2681 ms
+2024-01-24 13:32:00.399 +07:00 [INF] Server cpfhp-cd2084qqf:98308:e43b810f is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 13:32:00.410 +07:00 [INF] Server cpfhp-cd2084qqf:98308:e43b810f all the dispatchers started
+2024-01-24 13:37:00.433 +07:00 [INF] 1 servers were removed due to timeout
+2024-01-24 14:09:19.108 +07:00 [INF] Server cpfhp-cd2084qqf:98308:e43b810f caught stopping signal...
+2024-01-24 14:09:19.110 +07:00 [INF] Application is shutting down...
+2024-01-24 14:09:19.112 +07:00 [INF] Server cpfhp-cd2084qqf:98308:e43b810f All dispatchers stopped
+2024-01-24 14:09:19.124 +07:00 [INF] Server cpfhp-cd2084qqf:98308:e43b810f successfully reported itself as stopped in 9.2589 ms
+2024-01-24 14:09:19.124 +07:00 [INF] Server cpfhp-cd2084qqf:98308:e43b810f has been stopped in total 15.3872 ms
+2024-01-24 14:26:00.854 +07:00 [INF] Initializing UI Database
+2024-01-24 14:26:02.306 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 14:26:02.500 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 14:26:02.500 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 14:26:02.500 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 14:26:02.501 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 14:26:02.501 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 14:26:02.555 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 14:26:02.556 +07:00 [INF] Hosting environment: Development
+2024-01-24 14:26:02.556 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AxonsCMS_BackEnd\AxonsCMS_BackEnd
+2024-01-24 14:26:03.049 +07:00 [INF] Server cpfhp-cd2084qqf:94116:0f12daa0 successfully announced in 491.928 ms
+2024-01-24 14:26:03.052 +07:00 [INF] Server cpfhp-cd2084qqf:94116:0f12daa0 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 14:26:03.187 +07:00 [INF] Server cpfhp-cd2084qqf:94116:0f12daa0 all the dispatchers started
+2024-01-24 14:26:12.038 +07:00 [INF] Server cpfhp-cd2084qqf:94116:0f12daa0 caught stopping signal...
+2024-01-24 14:26:12.039 +07:00 [INF] Application is shutting down...
+2024-01-24 14:26:12.041 +07:00 [INF] Server cpfhp-cd2084qqf:94116:0f12daa0 All dispatchers stopped
+2024-01-24 14:26:12.050 +07:00 [INF] Server cpfhp-cd2084qqf:94116:0f12daa0 successfully reported itself as stopped in 6.259 ms
+2024-01-24 14:26:12.050 +07:00 [INF] Server cpfhp-cd2084qqf:94116:0f12daa0 has been stopped in total 11.4252 ms
+2024-01-24 20:09:18.377 +07:00 [INF] Initializing UI Database
+2024-01-24 20:09:19.369 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 20:09:19.550 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 20:09:19.551 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 20:09:19.551 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 20:09:19.551 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 20:09:19.551 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 20:09:19.582 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 20:09:19.583 +07:00 [INF] Hosting environment: Development
+2024-01-24 20:09:19.583 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd
+2024-01-24 20:09:20.011 +07:00 [INF] Server cpfhp-cd2084qqf:43708:74c5bcb2 successfully announced in 420.7778 ms
+2024-01-24 20:09:20.015 +07:00 [INF] Server cpfhp-cd2084qqf:43708:74c5bcb2 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 20:09:20.121 +07:00 [INF] Server cpfhp-cd2084qqf:43708:74c5bcb2 all the dispatchers started
+2024-01-24 20:11:23.291 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-01-24 20:11:23.659 +07:00 [INF] Loging Attempt for luecha.kan
+2024-01-24 20:11:24.351 +07:00 [ERR] Something Went wrong while processing /api/Authentication/login-local
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+EntityEntry`1 -> AxonscmsSession
+Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry`1[[Entities.AxonscmsSession, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Entities.AxonscmsSession
+   at lambda_method259(Closure, Object, AxonscmsSession, ResolutionContext)
+   at Authentication.Repository.AxonscmsSessionRepository.CreateSession(AxonscmsSession entity) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\Authentication\Repository\AxonscmsSessionRepository.cs:line 33
+   at Authentication.Service.AuthenticationService.CreateAxonscmsSession(LoginDto loginDto) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\Authentication\Service\AuthenticationService.cs:line 241
+   at Authentication.Service.AuthenticationService.Login(LoginDto loginDto) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\Authentication\Service\AuthenticationService.cs:line 69
+   at AxonsCMS_BackEnd.Presentation.Controllers.AuthenticationController.Login(LoginDto loginDto) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Presentation\Controllers\AuthenticationController.cs:line 48
+   at lambda_method20(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at AxonsCMS_BackEnd.Core.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Core\Middleware\ExceptionMiddleware.cs:line 24
+2024-01-24 20:11:24.372 +07:00 [ERR] HTTP POST /api/Authentication/login-local responded 500 in 1081.5900 ms
+2024-01-24 20:15:02.589 +07:00 [INF] Loging Attempt for luecha.kan
+2024-01-24 20:15:02.719 +07:00 [ERR] Something Went wrong while processing /api/Authentication/login-local
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+EntityEntry`1 -> AxonscmsSession
+Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry`1[[Entities.AxonscmsSession, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Entities.AxonscmsSession
+   at lambda_method259(Closure, Object, AxonscmsSession, ResolutionContext)
+   at Authentication.Repository.AxonscmsSessionRepository.CreateSession(AxonscmsSession entity)
+   at Authentication.Service.AuthenticationService.CreateAxonscmsSession(LoginDto loginDto)
+   at Authentication.Service.AuthenticationService.Login(LoginDto loginDto)
+   at AxonsCMS_BackEnd.Presentation.Controllers.AuthenticationController.Login(LoginDto loginDto) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Presentation\Controllers\AuthenticationController.cs:line 48
+   at lambda_method265(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at AxonsCMS_BackEnd.Core.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Core\Middleware\ExceptionMiddleware.cs:line 24
+2024-01-24 20:15:02.722 +07:00 [ERR] HTTP POST /api/Authentication/login-local responded 500 in 141.0546 ms
+2024-01-24 20:15:29.659 +07:00 [INF] Loging Attempt for luecha.kan
+2024-01-24 20:15:29.744 +07:00 [ERR] Something Went wrong while processing /api/Authentication/login-local
+AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+EntityEntry`1 -> AxonscmsSession
+Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry`1[[Entities.AxonscmsSession, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Entities.AxonscmsSession
+   at lambda_method259(Closure, Object, AxonscmsSession, ResolutionContext)
+   at Authentication.Repository.AxonscmsSessionRepository.CreateSession(AxonscmsSession entity)
+   at Authentication.Service.AuthenticationService.CreateAxonscmsSession(LoginDto loginDto)
+   at Authentication.Service.AuthenticationService.Login(LoginDto loginDto)
+   at AxonsCMS_BackEnd.Presentation.Controllers.AuthenticationController.Login(LoginDto loginDto) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Presentation\Controllers\AuthenticationController.cs:line 48
+   at lambda_method273(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at AxonsCMS_BackEnd.Core.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Core\Middleware\ExceptionMiddleware.cs:line 24
+2024-01-24 20:15:29.746 +07:00 [ERR] HTTP POST /api/Authentication/login-local responded 500 in 99.0157 ms
+2024-01-24 20:20:18.545 +07:00 [INF] Loging Attempt for luecha.kan
+2024-01-24 20:20:19.109 +07:00 [INF] HTTP POST /api/Authentication/login-local responded 200 in 569.5925 ms
+2024-01-24 20:25:13.916 +07:00 [INF] Loging Attempt for luecha.kan
+2024-01-24 20:25:14.040 +07:00 [INF] HTTP POST /api/Authentication/login-local responded 200 in 129.4400 ms
+2024-01-24 20:48:41.501 +07:00 [INF] Initializing UI Database
+2024-01-24 20:48:42.134 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 20:48:42.217 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 20:48:42.217 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 20:48:42.217 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 20:48:42.217 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 20:48:42.217 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 20:48:42.238 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 20:48:42.239 +07:00 [INF] Hosting environment: Development
+2024-01-24 20:48:42.239 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd
+2024-01-24 20:48:42.509 +07:00 [INF] Server cpfhp-cd2084qqf:83756:51d97ec2 successfully announced in 263.0518 ms
+2024-01-24 20:48:42.510 +07:00 [INF] Server cpfhp-cd2084qqf:83756:51d97ec2 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 20:48:42.546 +07:00 [INF] Server cpfhp-cd2084qqf:83756:51d97ec2 all the dispatchers started
+2024-01-24 20:48:48.294 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-01-24 20:48:48.671 +07:00 [INF] Loging Attempt for luecha.kan
+2024-01-24 20:48:50.062 +07:00 [INF] HTTP POST /api/Authentication/login-local responded 200 in 1768.1374 ms
+2024-01-24 20:49:05.487 +07:00 [INF] Loging Attempt for luecha.kan
+2024-01-24 20:49:05.686 +07:00 [INF] HTTP POST /api/Authentication/login-local responded 200 in 205.9722 ms
+2024-01-24 20:53:42.541 +07:00 [INF] 1 servers were removed due to timeout
+2024-01-24 21:51:10.764 +07:00 [INF] Initializing UI Database
+2024-01-24 21:51:11.463 +07:00 [INF] Now listening on: http://localhost:5042
+2024-01-24 21:51:11.567 +07:00 [INF] Starting Hangfire Server using job storage: 'PostgreSQL Server: Host: localhost, DB: cms_db, Schema: public'
+2024-01-24 21:51:11.568 +07:00 [INF] Using the following options for SQL Server job storage:
+2024-01-24 21:51:11.568 +07:00 [INF]     Queue poll interval: 00:00:15.
+2024-01-24 21:51:11.568 +07:00 [INF]     Invisibility timeout: 00:30:00.
+2024-01-24 21:51:11.568 +07:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-01-24 21:51:11.591 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-24 21:51:11.592 +07:00 [INF] Hosting environment: Development
+2024-01-24 21:51:11.592 +07:00 [INF] Content root path: C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd
+2024-01-24 21:51:11.892 +07:00 [INF] Server cpfhp-cd2084qqf:46736:e69e1313 successfully announced in 293.3567 ms
+2024-01-24 21:51:11.894 +07:00 [INF] Server cpfhp-cd2084qqf:46736:e69e1313 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-01-24 21:51:11.903 +07:00 [INF] 1 servers were removed due to timeout
+2024-01-24 21:51:11.929 +07:00 [INF] Server cpfhp-cd2084qqf:46736:e69e1313 all the dispatchers started
+2024-01-24 21:52:21.718 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-01-24 21:52:22.122 +07:00 [INF] Loging Attempt for luecha.kan
+2024-01-24 21:52:23.324 +07:00 [INF] HTTP POST /api/Authentication/login-local responded 200 in 1607.0759 ms
+2024-01-24 21:54:29.378 +07:00 [ERR] Something Went wrong while processing /api/Authentication/refresh-token
+System.ArgumentException: The key value at position 0 of the call to 'DbSet<AxonscmsSession>.Find' was of type 'string', which does not match the property type of 'Guid'.
+   at Microsoft.EntityFrameworkCore.Internal.EntityFinder`1.FindTracked(Object[] keyValues)
+   at Microsoft.EntityFrameworkCore.Internal.EntityFinder`1.FindAsync(Object[] keyValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.FindAsync(Object[] keyValues)
+   at Authentication.Repository.AxonscmsSessionRepository.FindSessionById(String sessionId)
+   at Authentication.Service.AuthenticationService.VerifyRefreshToken(AuthResponseDto request)
+   at AxonsCMS_BackEnd.Presentation.Controllers.AuthenticationController.RefreshToken(AuthResponseDto request) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Presentation\Controllers\AuthenticationController.cs:line 64
+   at lambda_method460(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at AxonsCMS_BackEnd.Core.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Core\Middleware\ExceptionMiddleware.cs:line 24
+2024-01-24 21:54:29.393 +07:00 [ERR] HTTP POST /api/Authentication/refresh-token responded 500 in 84.3782 ms
+2024-01-24 21:54:36.483 +07:00 [INF] Loging Attempt for luecha.kan
+2024-01-24 21:54:36.625 +07:00 [INF] HTTP POST /api/Authentication/login-local responded 200 in 155.0098 ms
+2024-01-24 21:54:46.143 +07:00 [ERR] Something Went wrong while processing /api/Authentication/refresh-token
+System.ArgumentException: The key value at position 0 of the call to 'DbSet<AxonscmsSession>.Find' was of type 'string', which does not match the property type of 'Guid'.
+   at Microsoft.EntityFrameworkCore.Internal.EntityFinder`1.FindTracked(Object[] keyValues)
+   at Microsoft.EntityFrameworkCore.Internal.EntityFinder`1.FindAsync(Object[] keyValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.FindAsync(Object[] keyValues)
+   at Authentication.Repository.AxonscmsSessionRepository.FindSessionById(String sessionId)
+   at Authentication.Service.AuthenticationService.VerifyRefreshToken(AuthResponseDto request)
+   at AxonsCMS_BackEnd.Presentation.Controllers.AuthenticationController.RefreshToken(AuthResponseDto request) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Presentation\Controllers\AuthenticationController.cs:line 64
+   at lambda_method460(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at AxonsCMS_BackEnd.Core.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Core\Middleware\ExceptionMiddleware.cs:line 24
+2024-01-24 21:54:46.146 +07:00 [ERR] HTTP POST /api/Authentication/refresh-token responded 500 in 8.0737 ms
+2024-01-24 21:58:18.780 +07:00 [ERR] Something Went wrong while processing /api/Authentication/refresh-token
+System.ArgumentException: The key value at position 0 of the call to 'DbSet<AxonscmsSession>.Find' was of type 'string', which does not match the property type of 'Guid'.
+   at Microsoft.EntityFrameworkCore.Internal.EntityFinder`1.FindTracked(Object[] keyValues)
+   at Microsoft.EntityFrameworkCore.Internal.EntityFinder`1.FindAsync(Object[] keyValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.FindAsync(Object[] keyValues)
+   at Authentication.Repository.AxonscmsSessionRepository.FindSessionById(String sessionId)
+   at Authentication.Service.AuthenticationService.VerifyRefreshToken(AuthResponseDto request)
+   at AxonsCMS_BackEnd.Presentation.Controllers.AuthenticationController.RefreshToken(AuthResponseDto request) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Presentation\Controllers\AuthenticationController.cs:line 64
+   at lambda_method478(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at AxonsCMS_BackEnd.Core.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Core\Middleware\ExceptionMiddleware.cs:line 24
+2024-01-24 21:58:18.782 +07:00 [ERR] HTTP POST /api/Authentication/refresh-token responded 500 in 12.5178 ms
+2024-01-24 21:58:43.975 +07:00 [ERR] Something Went wrong while processing /api/Authentication/refresh-token
+System.ArgumentException: The key value at position 0 of the call to 'DbSet<AxonscmsSession>.Find' was of type 'string', which does not match the property type of 'Guid'.
+   at Microsoft.EntityFrameworkCore.Internal.EntityFinder`1.FindTracked(Object[] keyValues)
+   at Microsoft.EntityFrameworkCore.Internal.EntityFinder`1.FindAsync(Object[] keyValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.FindAsync(Object[] keyValues)
+   at Authentication.Repository.AxonscmsSessionRepository.FindSessionById(String sessionId)
+   at Authentication.Service.AuthenticationService.VerifyRefreshToken(AuthResponseDto request)
+   at AxonsCMS_BackEnd.Presentation.Controllers.AuthenticationController.RefreshToken(AuthResponseDto request) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Presentation\Controllers\AuthenticationController.cs:line 64
+   at lambda_method486(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at AxonsCMS_BackEnd.Core.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Core\Middleware\ExceptionMiddleware.cs:line 24
+2024-01-24 21:58:43.976 +07:00 [ERR] HTTP POST /api/Authentication/refresh-token responded 500 in 9.7237 ms
+2024-01-24 22:02:05.863 +07:00 [ERR] Something Went wrong while processing /api/Authentication/refresh-token
+System.ArgumentException: The key value at position 0 of the call to 'DbSet<AxonscmsSession>.Find' was of type 'bool', which does not match the property type of 'Guid'.
+   at Microsoft.EntityFrameworkCore.Internal.EntityFinder`1.FindTracked(Object[] keyValues)
+   at Microsoft.EntityFrameworkCore.Internal.EntityFinder`1.FindAsync(Object[] keyValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.FindAsync(Object[] keyValues)
+   at Authentication.Repository.AxonscmsSessionRepository.FindSessionById(String id)
+   at Authentication.Service.AuthenticationService.VerifyRefreshToken(AuthResponseDto request)
+   at AxonsCMS_BackEnd.Presentation.Controllers.AuthenticationController.RefreshToken(AuthResponseDto request) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Presentation\Controllers\AuthenticationController.cs:line 64
+   at lambda_method494(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at AxonsCMS_BackEnd.Core.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\luecha.kan\Documents\Dev\SMARTSoft_CMS\AXONSCMSBackEnd\AxonsCMS_BackEnd.Core\Middleware\ExceptionMiddleware.cs:line 24
+2024-01-24 22:02:05.865 +07:00 [ERR] HTTP POST /api/Authentication/refresh-token responded 500 in 12.6494 ms
+2024-01-24 22:02:43.894 +07:00 [INF] HTTP POST /api/Authentication/refresh-token responded 200 in 45.1816 ms
+2024-01-24 22:52:49.280 +07:00 [INF] Server cpfhp-cd2084qqf:46736:e69e1313 caught stopping signal...
+2024-01-24 22:52:49.282 +07:00 [INF] Application is shutting down...
+2024-01-24 22:52:49.295 +07:00 [INF] Server cpfhp-cd2084qqf:46736:e69e1313 All dispatchers stopped
+2024-01-24 22:52:49.304 +07:00 [INF] Server cpfhp-cd2084qqf:46736:e69e1313 successfully reported itself as stopped in 6.6043 ms
+2024-01-24 22:52:49.304 +07:00 [INF] Server cpfhp-cd2084qqf:46736:e69e1313 has been stopped in total 22.6715 ms

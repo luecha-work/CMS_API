@@ -1,0 +1,64 @@
+# Visual Studio Code
+.vscode/
+
+.vs/
+
+.github/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Bin and Obj folders
+Authentication/bin/
+Authentication/obj/
+
+CMS_API/bin/
+CMS_API/obj/
+CMS_API/Logs/
+
+CMS_API.Core/bin/
+CMS_API.Core/obj/
+
+CMS_API.Presentation/bin/
+CMS_API.Presentation/obj/
+
+Repository/bin/
+Repository/obj/
+
+Repository.Contracts/bin/
+Repository.Contracts/obj/
+
+Entities/bin/
+Entities/obj/
+
+Repository.EntityFramework/bin/
+Repository.EntityFramework/obj/
+
+Service/bin/
+Service/obj/
+
+Service.Contracts/bin/
+Service.Contracts/obj/
+
+Shared/bin/
+Shared/obj/
+
+#Sonarqube
+.sonarqube/
+.scannerwork/
